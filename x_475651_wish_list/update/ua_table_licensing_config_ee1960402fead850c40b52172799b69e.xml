@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-05 15:19:06</sys_created_on>
-        <sys_id>af259cc02faad850c40b52172799b6f0</sys_id>
+        <sys_id>ee1960402fead850c40b52172799b69e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_475651_wish_list_wish_item</sys_name>
         <sys_package display_value="Wish List" source="x_475651_wish_list">a054dc402faad850c40b52172799b678</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">a054dc402faad850c40b52172799b678</sys_scope>
-        <sys_update_name>ua_table_licensing_config_af259cc02faad850c40b52172799b6f0</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_ee1960402fead850c40b52172799b69e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-08-05 15:19:06</sys_updated_on>
     </ua_table_licensing_config>
